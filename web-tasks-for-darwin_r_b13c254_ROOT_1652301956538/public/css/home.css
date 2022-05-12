@@ -1,0 +1,36 @@
+.text__content{
+    font-size: 20px;
+    color: #828282;
+    text-align: left;
+    padding: 3.5rem;
+    
+}
+.image__movie{
+    float: right;
+    width: 30%;
+    height: 250px;
+    padding: 3.5rem;
+    margin-top: -3.5rem;
+    
+}
+
+.hero__area__title{
+    text-align: right;
+    line-height: 3.2;
+
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: left;
+    margin-top: 2.5rem;
+}
+.button{
+    float: left;
+}
+
+.image__movie2{
+    width: 250px;
+    height: 250px;
+}
